@@ -1,2 +1,2 @@
-# my-first-prectice-repo
+# my-first-practice-repo
 just to practice
